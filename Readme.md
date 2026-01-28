@@ -3,7 +3,7 @@ A dedicated CGPA calculator designed specifically for **Sichuan University (SCU)
 
 Created by **Md Mihraz Hossain Niloy** (Batch 2023).
 
----
+
 
 ## 🚀 Features
 
@@ -17,7 +17,7 @@ Created by **Md Mihraz Hossain Niloy** (Batch 2023).
 This calculator adheres strictly to the Sichuan University grading lookup table:
 
 | Mark Range | Grade Point | Grade |
-| :--- | :--- | :--- |
+| : | : | : |
 | **90 - 100** | **4.0** | Excellent |
 | **85 - 89** | **3.7** | Excellent |
 | **80 - 84** | **3.3** | Good |
