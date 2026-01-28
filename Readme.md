@@ -1,16 +1,16 @@
-# SCU SWE CGPA Calculator 
+### SCU SWE CGPA Calculator 
 A dedicated CGPA calculator designed specifically for **Sichuan University (SCU)** students. This application is tailored to the Software Engineering (SWE) department and follows the **2026 curriculum grading standards**.
 
 Created by **Md Mihraz Hossain Niloy** (Batch 2023).
 
-##  Features
+###  Features
 
 * **Accurate SCU Grading Logic:** Unlike generic GPA calculators, this tool uses the specific grading intervals defined by the university handbook.
 * **Graphical User Interface (GUI):** A clean, easy-to-use Windows interface for quick data entry.
 * **Weighted Calculation:** Automatically handles credit weighting according to the formula: `∑(Grade Point × Credits) / ∑Credits`.
 * **Portable:** No installation required. Just run the `.exe` file.
 
-##  Grading Scale Used
+###  Grading Scale Used
 
 This calculator adheres strictly to the Sichuan University grading lookup table:
 
@@ -28,7 +28,7 @@ This calculator adheres strictly to the Sichuan University grading lookup table:
 | **60** | **1.0** | Pass |
 | **< 60** | **0.0** | Fail |
 
-##  How to Use
+###  How to Use
 
 1.  Download the latest release from this repository (Check under release section).
 2.  Double-click **`ScuCgpaCalculatorByMihrazHossain.exe`**.
