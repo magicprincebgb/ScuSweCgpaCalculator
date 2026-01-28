@@ -30,8 +30,8 @@ This calculator adheres strictly to the Sichuan University grading lookup table:
 
 ##  How to Use
 
-1.  Download the latest release from this repository.
-2.  Double-click **`SCU CGPA Calculator by Mihraz Hossain.exe`**.
+1.  Download the latest release from this repository (Check under release section).
+2.  Double-click **`ScuCgpaCalculatorByMihrazHossain.exe`**.
 3.  Enter the number of courses you have.
 4.  Input the credits and marks for each course.
 5.  Click **Calculate** to see your final CGPA.
