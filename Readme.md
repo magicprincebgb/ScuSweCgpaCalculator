@@ -30,7 +30,7 @@ This calculator adheres strictly to the Sichuan University grading lookup table:
 
 ###  How to Use
 
-1.  Download the latest release from this repository (Check under release section).
+1.  Download the latest release from this repository (Check under [Release](https://github.com/magicprincebgb/ScuSweCgpaCalculator/releases/tag/v1.0) section).
 2.  Double-click **`ScuCgpaCalculatorByMihrazHossain.exe`**.
 3.  Enter the number of courses you have.
 4.  Input the credits and marks for each course.
